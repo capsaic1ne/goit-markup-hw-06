@@ -134,3 +134,9 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+# my files
+.prettierrc.json
+.vscode
+.vscode/*
+css/styles_old.css
